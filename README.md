@@ -14,3 +14,7 @@ Personalized endpoint navigation. For practical purposes, perform the verificati
 Patient creation and management:
 
 ![4 1](https://user-images.githubusercontent.com/95058605/226404857-2d5f994a-ebab-421a-8e50-12efe4e02712.gif)
+
+Security in each endpoint, code injection cannot be carried out through the url or any field of the form, edition of the user profile and elimination of the same:
+
+![5](https://user-images.githubusercontent.com/95058605/226407736-54965c0d-39b2-4182-8d38-8f8714701551.gif)
