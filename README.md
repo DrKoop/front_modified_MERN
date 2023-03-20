@@ -9,3 +9,8 @@ Registration with Multiple Verifications, confirmation by JWT token via email or
 Personalized endpoint navigation. For practical purposes, perform the verification of an account manually from the database. :
 
 ![3](https://user-images.githubusercontent.com/95058605/226400422-77b12f74-2690-43e3-92c6-c92b6583ea88.gif)
+
+
+Patient creation and management:
+
+![4 1](https://user-images.githubusercontent.com/95058605/226404857-2d5f994a-ebab-421a-8e50-12efe4e02712.gif)
