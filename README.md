@@ -1,4 +1,8 @@
 # front_modified_MERN
+
+
+Patient Manager project of a Veterinary Clinic, with react and Tailwind css in the frontend, Mongo as database, Express and Node as Backend.
+
 Login :
 
 ![1](https://user-images.githubusercontent.com/95058605/226396687-72b9551f-e512-4992-9f5e-b8d36a8946cf.gif)
